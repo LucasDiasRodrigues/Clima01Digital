@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lista_capitais_br">
+        <item>Aracaju</item>
+        <item>Belém</item>
+        <item>Belo Horizonte</item>
+        <item>Boa Vista</item>
+        <item>Brasília</item>
+        <item>Campo Grande</item>
+        <item>Cuiabá</item>
+        <item>Curitiba</item>
+        <item>Florianópolis</item>
+        <item>Fortaleza</item>
+        <item>Goiânia</item>
+        <item>João Pessoa</item>
+        <item>Macapá</item>
+        <item>Maceió</item>
+        <item>Manaus</item>
+        <item>Natal</item>
+        <item>Palmas</item>
+        <item>Porto Alegre</item>
+        <item>Porto Velho</item>
+        <item>Recife</item>
+        <item>Rio Branco</item>
+        <item>Rio de Janeiro</item>
+        <item>Salvador</item>
+        <item>São Luís</item>
+        <item>São Paulo</item>
+        <item>Teresina</item>
+        <item>Vitória</item>
+    </string-array>
+
+    <string-array name="lista_capitais_ID">
+        <item>3471872</item>
+        <item>3405870</item>
+        <item>3470127</item>
+        <item>3664980</item>
+        <item>3410315</item>
+        <item>3467747</item>
+        <item>6323820</item>
+        <item>3464975</item>
+        <item>6323121</item>
+        <item>3399415</item>
+        <item>6323974</item>
+        <item>3397277</item>
+        <item>3396016</item>
+        <item>6320645</item>
+        <item>3663517</item>
+        <item>3394023</item>
+        <item>3474574</item>
+        <item>3452925</item>
+        <item>3662762</item>
+        <item>3390760</item>
+        <item>3662574</item>
+        <item>3451190</item>
+        <item>6321026</item>
+        <item>3388368</item>
+        <item>3448439</item>
+        <item>3386496</item>
+        <item>3444924</item>
+    </string-array>
+
+    <string-array name="lista_capitais_estados_br">
+        <item>Aracaju, Sergipe</item>
+        <item>Belém, Pará</item>
+        <item>Belo Horizonte, Minas Gerais</item>
+        <item>Boa Vista, Roraima</item>
+        <item>Brasília, Distrito Federal</item>
+        <item>Campo Grande, Mato Grosso do Sul</item>
+        <item>Cuiabá, Mato Grosso</item>
+        <item>Curitiba,Paraná</item>
+        <item>Florianópolis, Santa Catarina</item>
+        <item>Fortaleza, Ceará</item>
+        <item>Goiânia, Goiás</item>
+        <item>João Pessoa, Paraíba</item>
+        <item>Macapá, Amapá</item>
+        <item>Maceió, Alagoas</item>
+        <item>Manaus, Amazonas</item>
+        <item>Natal, Rio Grande do Norte</item>
+        <item>Palmas, Tocantins</item>
+        <item>Porto Alegre, Rio Grande do Sul</item>
+        <item>Porto Velho, Rondônia</item>
+        <item>Recife, Pernambuco</item>
+        <item>Rio Branco, Acre</item>
+        <item>Rio de Janeiro, Rio de Janeiro</item>
+        <item>Salvador, Bahia</item>
+        <item>São Luís, Maranhão</item>
+        <item>São Paulo, São Paulo</item>
+        <item>Teresina, Piauí</item>
+        <item>Vitória, Espírito Santo</item>
+    </string-array>
+
+    <string-array name="lista_capitais_br_lat_lng">
+        <item>-10.949120,-37.073434</item>
+        <item>-1.457774,-48.489772</item>
+        <item>-19.922224,-43.933096</item>
+        <item>2.821541,-60.673187</item>
+        <item>-15.7751267,-48.0778411</item>
+        <item>-20.480722,-54.7756208</item>
+        <item>-15.6142309,-56.1118477</item>
+        <item>-25.4947402,-49.4298844</item>
+        <item>-27.6094088,-48.7647735</item>
+        <item>-3.7911773,-38.5893119</item>
+        <item>-16.6954999,-49.4443544</item>
+        <item>-7.1494914,-34.9534864</item>
+        <item>0.1021153,-51.2369485</item>
+        <item>-9.593076,-35.826766</item>
+        <item>-3.0443101,-60.1071917</item>
+        <item>-5.7997439,-35.2922857</item>
+        <item>-10.2598833,-48.4172751</item>
+        <item>-30.1084987,-51.3169902</item>
+        <item>-8.7563695,-63.9249476</item>
+        <item>-8.0431353,-35.0062395</item>
+        <item>-9.993834,-68.9839943</item>
+        <item>-22.9108558,-43.5884204</item>
+        <item>-12.9012521,-38.5598948</item>
+        <item>-2.5604588,-44.3281628</item>
+        <item>-23.6815315,-46.8754937</item>
+        <item>-5.1856982,-43.0816783</item>
+        <item>-20.2821076,-40.32119</item>
+    </string-array>
+
+</resources>

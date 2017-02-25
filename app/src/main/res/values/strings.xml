@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Clima01D</string>
+    <string name="action_settings">Settings</string>
+
+    <!--API OpenWeather-->
+    <string name="weather_URL_Cel">http://api.openweathermap.org/data/2.5/weather?units=metric&amp;lang=pt&amp;</string>
+    <string name="weather_URL_Fah">http://api.openweathermap.org/data/2.5/weather?units=imperial&amp;lang=pt&amp;</string>
+    <string name="img_URL">http://openweathermap.org/img/w/</string>
+    <string name="openweather_api_key">cb3aa28b4c5be5eeec0f37d64e49363b</string>
+
+    <!--Geocode APIKey-->
+    <string name="geocode_api_key">AIzaSyATeU4zZSMEAjJwjJGy1qrGyE_knhsjnE0</string>
+
+    <!--Location-->
+    <string name="permissaoNegada">Permissão negada.</string>
+    <string name="permissaoNegadaMsg">Desculpe, precisamos que você permita o acesso a sua localização para mostrarmos o clima do seu local. :(</string>
+    <string name="permitir">Permitir</string>
+    <string name="negar">Negar</string>
+
+    <!--FragmentMain-->
+    <string name="pressao_atmosferica">Pressão Atmosférica</string>
+    <string name="temp_min">Mínima</string>
+    <string name="temp_max">Máxima</string>
+    <string name="umidade">Umidade</string>
+    <string name="semResposta">Ops&#8230; Os servidores não estão respondendo tente mais tarde :(</string>
+    <string name="conexaoIndosponivel">Você está offline. Verifique sua conexão com a internet</string>
+    <string name="atualizadoEm">Atualizado em: </string>
+    <string name="atualizar">Atualizar</string>
+
+    <!--FragmentCapitais-->
+    <string name="climaCapitais">Veja o clima nas capitais!</string>
+
+    <!--Configuracoes-->
+    <string name="preferencias">Preferências</string>
+    <string name="unidadeMedida">Unidade de medida</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+
+
+</resources>
